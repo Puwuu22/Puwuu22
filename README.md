@@ -12,10 +12,10 @@
 
 ### 🌱 What I'm Learning
 - 📖 **Database Practice:**
-  + [Database Fundamentals Practice](https://github.com/Puwuu22/IT004-ThucHanh.git) – focused on fundamental SQL and database management.
-  + [Database Advanced Practice]() – aimed at mastering SQL and advanced database management techniques.
-- 🎨 **Figma Design:** [Explore my Figma projects](https://www.figma.com/proto/8H9yE3zEgWqO0nMrEPsnK4/Prototype?node-id=2228-10483&starting-point-node-id=2228%3A10483&scaling=scale-down-width&content-scaling=fixed&t=SrWp2WnyouWNPVkt-1) – focusing on wireframing and UI design principles for my tutoring website.
-- 🌆 **Apartment Management Project:** Developing a comprehensive Apartment Management System to streamline and manage data efficiently.
+  + **[Database Fundamentals Practice](https://github.com/Puwuu22/IT004-ThucHanh.git)** – focused on fundamental SQL and database management.
+  + **[Database Advanced Practice](https://github.com/Puwuu22/IE103---BTTH.git)** – aimed at mastering SQL and advanced database management techniques.
+- 🎨 **Figma Design:** **[Explore my Figma projects](https://www.figma.com/proto/8H9yE3zEgWqO0nMrEPsnK4/Prototype?node-id=2228-10483&starting-point-node-id=2228%3A10483&scaling=scale-down-width&content-scaling=fixed&t=SrWp2WnyouWNPVkt-1)** – focusing on wireframing and UI design principles for my tutoring website.
+- 🌆 **[Apartment Management Project:](https://github.com/Puwuu22/Apartment-Management.git)** Developing a comprehensive Apartment Management System to streamline and manage data efficiently.
 
 ### 🌐 Socials
 Feel free to connect with me on:
