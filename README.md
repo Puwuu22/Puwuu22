@@ -1,5 +1,5 @@
 <h1 align=center>Hi there! I'm Phương Quỳnh 🌟</h1>
-<p>I'm a Web Developer from VietNam. I really enjoy learning Languages and Frameworks like React and React Native. I also enjoy Wireframing, UI/UX and Design in general </p>
+<p>I'm a Web Developer from Vietnam, passionate about learning languages and frameworks. I enjoy wireframing, UI/UX, and design in general, and thrive on bringing ideas to life through innovative coding. Here's a bit more about me and what I love working on:</p>
 
 ### 👉 About Me
 - 👩🏼‍🎓 I'm student of [VNU-HCM University Of Information and Technology](https://www.uit.edu.vn/) (HCMUIT)
