@@ -19,7 +19,6 @@
 
 ### 🌐 Socials
 Feel free to connect with me on:
-- 👩🏼‍💼 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/quynh-ttp/))</br>
 - 💬 [Facebook](https://fb.com/ttpuwu)</br> 
 - 💌 [Email](puwuu22@gmail.com)
 
