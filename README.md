@@ -1,14 +1,17 @@
-<h1 align=center>Hi there! I'm Phương Quỳnh 🌟</h1>
+<h1 align="center">Hi there! I'm Phương Quỳnh 🌟</h1>
+
 <p>I'm a Web Developer from Vietnam, passionate about learning languages and frameworks. I enjoy wireframing, UI/UX, and design in general, and thrive on bringing ideas to life through innovative coding. Here's a bit more about me and what I love working on:</p>
 
-
+---
 
 ### 👉 About Me
-- 👩🏼‍🎓 I'm a student at [VNU-HCM University of Information Technology (HCMUIT)](https://www.uit.edu.vn/)
-- 🎯 My goal is to become a **✨ Fullstack Developer ✨**
-- 🌱 Currently learning **React** and **React Native**
-- 💻 Working on a **Tutoring Website Project**
 
+- 👩🏼‍🎓 Student at [VNU-HCM University of Information Technology (HCMUIT)](https://www.uit.edu.vn/)
+- 🎯 Aspiring **✨ Fullstack Developer**
+- 🌱 Currently learning **React** and **React Native**
+- 💻 Building a **Tutoring Website Project**
+
+---
 
 ### 💻 Tech Skills
 
@@ -28,24 +31,30 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
 
 ### 🌱 What I'm Learning
 
 - 📚 **Database Practice:**
-  - [Database Fundamentals Practice](https://github.com/Puwuu22/IT004-ThucHanh.git) – foundational SQL & database management.
-  - [Database Advanced Practice](https://github.com/Puwuu22/IE103---BTTH.git) – advanced SQL queries and system design.
+  - [Database Fundamentals Practice](https://github.com/Puwuu22/IT004-ThucHanh.git) – foundational SQL & data management.
+  - [Database Advanced Practice](https://github.com/Puwuu22/IE103---BTTH.git) – advanced SQL queries and design.
 
-- 🖌️ **UI/UX Design:**
-  - [Explore my Figma Projects](https://www.figma.com/proto/8H9yE3zEgWqO0nMrEPsnK4/Prototype?node-id=2228-10483&starting-point-node-id=2228%3A10483&scaling=scale-down-width&content-scaling=fixed&t=SrWp2WnyouWNPVkt-1) – wireframes and prototypes for the tutoring website.
-
-- 🏢 **Real-world Projects:**
-  - [Apartment Management System](https://github.com/Puwuu22/Apartment-Management.git) – a tool to efficiently manage and streamline apartment data.
-
+---
 
 ### 🚀 Featured Projects
 
+#### 🔹 Portfolio Website
+> My personal portfolio site showcasing projects, skills, and contact info.
+
+- **Technologies:** React, Tailwind CSS, Framer Motion  
+- **Status:** ✅ Completed  
+- 🌐 [Live Site](https://puwuu22.github.io/the-portfolio/)  
+- 💻 [Source Code](https://github.com/Puwuu22/the-portfolio.git)
+
+---
 #### 🔹 SeiSei – Connect Tutor and Student Website
-> A platform connecting students and tutors. Beautiful, user-friendly UI for managing tutoring activities.
+> A platform that connects students and tutors with a clean, user-friendly interface.
+
 - **Technologies:** React, SASS  
 - **Status:** ✅ Completed  
 - 🔗 [Live Design (Figma)](https://www.figma.com/proto/8H9yE3zEgWqO0nMrEPsnK4/Prototype?node-id=2228-10483&p=f&t=O5lCWhNwIvE0ag8R-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2228%3A10483&show-proto-sidebar=1)  
@@ -53,17 +62,10 @@
 
 ---
 
-#### 🔹 Portfolio Website
-> A responsive and animated portfolio to showcase skills and projects.
-- **Technologies:** React, Tailwind CSS, Framer Motion  
-- **Status:** ✅ Completed  
-- 🌐 [Live Site](https://puwuu22.github.io/the-portfolio/)  
-- 💻 [Source Code](https://github.com/Puwuu22/the-portfolio.git)
-
----
 
 #### 🔹 Vaxine – Vaccine Tracking App
-> An app to manage your and your family's vaccination records, with appointment scheduling.
+> A mobile app for managing vaccination records and appointments.
+
 - **Technologies:** React Native, Firebase  
 - **Status:** ✅ Completed  
 - 🔗 [Live Design (Figma)](https://www.figma.com/proto/2v3nkgWMdwDdQXua65wqvE/M%E1%BA%ABu?node-id=26-8632&p=f&t=vIEIYiGxOvufHXCw-1&scaling=min-zoom&content-scaling=fixed&page-id=26%3A7366&starting-point-node-id=26%3A8632)  
@@ -72,7 +74,8 @@
 ---
 
 #### 🔹 Oshisha – Find Recipe Cooking
-> A social platform to find, share, and post cooking recipes.
+> A social website for sharing, searching, and posting cooking recipes.
+
 - **Technologies:** React, Node.js, Express.js, MongoDB  
 - **Status:** 🚧 In Progress  
 - 💻 [Source Code](https://github.com/ryderthieu/cooking-social-network.git)
@@ -82,7 +85,6 @@
 ### 🌐 Let's Connect
 
 - 💬 [Facebook](https://fb.com/ttpuwu)
-- 💌 Email: [puwuu22@gmail.com](mailto:trinhquynh5d@gmail.com)
+- 💌 Email: [puwuu22@gmail.com](mailto:puwuu22@gmail.com)
 
 ---
-
