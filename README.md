@@ -38,7 +38,9 @@
 - 📚 **Database Practice:**
   - [Database Fundamentals Practice](https://github.com/Puwuu22/IT004-ThucHanh.git) – foundational SQL & data management.
   - [Database Advanced Practice](https://github.com/Puwuu22/IE103---BTTH.git) – advanced SQL queries and design.
-
+  
+-💡 **Web Development Practice:**
+  - [Movie Review Website](https://github.com/Puwuu22/movies-review.git) – A fullstack web app built as a course assignment to practice REST APIs, authentication, and CRUD operations using Node.js, Express, and MongoDB.
 ---
 
 ### 🚀 Featured Projects
