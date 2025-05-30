@@ -9,7 +9,6 @@
 - 👩🏼‍🎓 Student at [VNU-HCM University of Information Technology (HCMUIT)](https://www.uit.edu.vn/)
 - 🎯 Aspiring **✨ Fullstack Developer**
 - 🌱 Currently learning **React** and **React Native**
-- 💻 Building a **Tutoring Website Project**
 
 ---
 
