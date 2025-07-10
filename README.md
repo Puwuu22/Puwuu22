@@ -86,6 +86,6 @@
 ### 🌐 Let's Connect
 
 - 💬 [Facebook](https://fb.com/ttpuwu)
-- 💌 Email: [puwuu22@gmail.com](mailto:puwuu22@gmail.com)
+- 💌 Email: [phuongquynh.ttpq@gmail.com](mailto:phuongquynh.ttpq@gmail.com)
 
 ---
